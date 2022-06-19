@@ -1,5 +1,7 @@
 ## 科学上网基础教程
 
+声明：本教程仅供技术学习，请勿用于违法用途！
+
 You can use the [editor on GitHub](https://github.com/xxynet/VPN-Basic/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
