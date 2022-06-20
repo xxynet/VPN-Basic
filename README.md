@@ -10,6 +10,6 @@
 
 1.社交平台
 
-[Twitter](https://twitter.com) [Facebook](https://facebook.com)
+[Twitter](https://twitter.com) [Facebook](https://facebook.com) [Telegram]()
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/xxynet/VPN-Basic/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
