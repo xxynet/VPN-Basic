@@ -10,6 +10,12 @@
 
 1.社交平台
 
-[Twitter](https://twitter.com) [Facebook](https://facebook.com) [Telegram]()
+[Twitter](https://twitter.com) [Facebook](https://facebook.com) [Telegram](https://telegram.org/)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/xxynet/VPN-Basic/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+2.流媒体
+
+[Youtube](https://youtube.com) [Netflix](https://netflix.com)
+
+3.不可描述
+
+[PxxxHub](https://pormhub.com) [Pixiv](https://pixiv.net)
