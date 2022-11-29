@@ -2,6 +2,9 @@
 
 声明：本教程仅供技术学习，请勿用于违法用途！
 
+### 免费工具
+[迷雾通](https://github.com/geph-official/geph4-client/wiki/%E8%BF%B7%E9%9B%BE%E9%80%9A%EF%BC%88%E5%85%8D%E7%BF%BB%E5%A2%99%E9%95%9C%E5%83%8F%EF%BC%89)
+
 ### 机场网址
 
 [GW树洞](https://hello-shudong.com/user) [TapFog](https://www.tapfog.com/#/dashboard) [WHYSless](https://whysless.com/#/login).
