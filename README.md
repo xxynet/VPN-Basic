@@ -11,6 +11,9 @@
 
 ### 墙外常用平台
 
+💪支持China Protest
+[白纸运动](https://www.baizhi.org/) [愤怒的乌鲁木齐](https://m.youtube.com/watch?v=DPz9nERnnHE)
+
 1.社交平台
 
 [Twitter](https://twitter.com) [Facebook](https://facebook.com) [Telegram](https://telegram.org/)
